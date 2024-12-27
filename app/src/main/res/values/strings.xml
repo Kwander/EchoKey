@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EchoKey</string>
+    <string name="ime_name">EchoKey Voice Keyboard</string>
+</resources>
